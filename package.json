@@ -1,5 +1,5 @@
 {
-  "name": "movie-search-app",
+  "name": "book-search-app",
   "private": true,
   "scripts": {
     "dev": "next dev",
